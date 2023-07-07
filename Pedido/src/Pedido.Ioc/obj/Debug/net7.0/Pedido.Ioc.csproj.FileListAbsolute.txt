@@ -1,0 +1,12 @@
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\bin\Debug\net7.0\Pedido.Ioc.deps.json
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\bin\Debug\net7.0\Pedido.Ioc.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\bin\Debug\net7.0\Pedido.Ioc.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.csproj.AssemblyReference.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.AssemblyInfoInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.AssemblyInfo.cs
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.csproj.CoreCompileInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\refint\Pedido.Ioc.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\Pedido.Ioc.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Ioc\obj\Debug\net7.0\ref\Pedido.Ioc.dll

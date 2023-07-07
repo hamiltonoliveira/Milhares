@@ -1,0 +1,13 @@
+C:\Projetos\Pedido\Pedido\bin\Debug\Pedido.Ui.deps.json
+C:\Projetos\Pedido\Pedido\bin\Debug\Pedido.Ui.runtimeconfig.json
+C:\Projetos\Pedido\Pedido\bin\Debug\appsettings.Development.json
+C:\Projetos\Pedido\Pedido\bin\Debug\appsettings.json
+C:\Projetos\Pedido\Pedido\bin\Debug\Pedido.Ui.exe
+C:\Projetos\Pedido\Pedido\bin\Debug\Pedido.Ui.dll
+C:\Projetos\Pedido\Pedido\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projetos\Pedido\Pedido\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projetos\Pedido\Pedido\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projetos\Pedido\Pedido\bin\Debug\Pedido.Ui.pdb
+C:\Projetos\Pedido\Pedido\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Projetos\Pedido\Pedido\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Projetos\Pedido\Pedido\obj\Debug\docker-compose.dcproj.CopyComplete

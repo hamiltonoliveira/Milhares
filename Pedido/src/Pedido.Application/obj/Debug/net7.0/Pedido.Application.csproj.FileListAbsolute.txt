@@ -1,0 +1,12 @@
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\bin\Debug\net7.0\Pedido.Application.deps.json
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\bin\Debug\net7.0\Pedido.Application.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\bin\Debug\net7.0\Pedido.Application.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.csproj.AssemblyReference.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.AssemblyInfoInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.AssemblyInfo.cs
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\refint\Pedido.Application.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\Pedido.Application.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Application\obj\Debug\net7.0\ref\Pedido.Application.dll

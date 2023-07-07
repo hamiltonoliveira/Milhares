@@ -1,0 +1,12 @@
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\bin\Debug\net7.0\Pedido.Domain.deps.json
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\bin\Debug\net7.0\Pedido.Domain.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\bin\Debug\net7.0\Pedido.Domain.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.AssemblyInfo.cs
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\refint\Pedido.Domain.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\Pedido.Domain.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Domain\obj\Debug\net7.0\ref\Pedido.Domain.dll

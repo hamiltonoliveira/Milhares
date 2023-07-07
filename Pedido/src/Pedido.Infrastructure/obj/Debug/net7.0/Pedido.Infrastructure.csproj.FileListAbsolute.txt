@@ -1,0 +1,12 @@
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\bin\Debug\net7.0\Pedido.Infrastructure.deps.json
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\bin\Debug\net7.0\Pedido.Infrastructure.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\bin\Debug\net7.0\Pedido.Infrastructure.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.csproj.AssemblyReference.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.AssemblyInfoInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.AssemblyInfo.cs
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\refint\Pedido.Infrastructure.dll
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\Pedido.Infrastructure.pdb
+C:\Projetos\Pedido\Pedido\src\Pedido.Infrastructure\obj\Debug\net7.0\ref\Pedido.Infrastructure.dll
