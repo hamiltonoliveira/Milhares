@@ -25,20 +25,21 @@ namespace Pedido.Ui.Controllers
         {
 
             var stop = Stopwatch.StartNew();
-            try { 
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+            try
             {
-                Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-                TemperatureC = Random.Shared.Next(-20, 55),
-                Summary = Summaries[Random.Shared.Next(Summaries.Length)]
-            })
-            .ToArray();
+                return Enumerable.Range(1, 5).Select(index => new WeatherForecast
+                {
+                    Date = DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
+                    TemperatureC = Random.Shared.Next(-20, 55),
+                    Summary = Summaries[Random.Shared.Next(Summaries.Length)]
+                })
+                .ToArray();
             }
             finally
             {
                 stop.Stop();
                 Console.WriteLine($"Took:{stop.ElapsedMilliseconds}");
             }
-        }   
+        }
     }
 }
