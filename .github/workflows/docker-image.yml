@@ -19,5 +19,6 @@ jobs:
 
     - name: Build the Docker image
       run: |
-        docker build pedido.ui --file pedido.ui/Dockerfile --tag my-image-name:$(date +%s)
+       docker build ../pedido/pedido.ui --file ../pedido/pedido.ui/Dockerfile --tag my-image-name:$(date +%s)
+
 
