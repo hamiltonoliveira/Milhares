@@ -19,6 +19,6 @@ jobs:
 
     - name: Build the Docker image
       run: |
-       docker build . --file ../pedido/src/pedido.ui/Dockerfile --tag my-image-name:$(date +%s)
+       docker build . --file ../src/pedido.ui/Dockerfile --tag my-image-name:$(date +%s)
 
 
